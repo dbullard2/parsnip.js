@@ -1,0 +1,8 @@
+.par-text {
+  width: fit-content;
+}
+
+.par-text:hover {
+  border: 1px dashed #2680eb;
+  cursor: text;
+}

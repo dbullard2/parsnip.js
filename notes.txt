@@ -1,0 +1,6 @@
+//how it works
+- upload your html project
+- parsnip.js will scan through it and find the parsnip classes and add the css to it
+- you can then edit / add / change things w/ the online editor
+- download the changed / edited html file from parsnip
+- push the changes to github, or do whatever you plan on doing w/ them
